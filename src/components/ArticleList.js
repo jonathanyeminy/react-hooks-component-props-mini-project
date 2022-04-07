@@ -18,7 +18,6 @@ function ArticleList(prop) {
   return (
     <main>
         {allArticles}
-        <h1>{prop.name}</h1>
     </main>
   );
 }
